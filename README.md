@@ -1,6 +1,6 @@
 # feeyo_uuid_gen
 
-在线访问：dextercai-feeyo-adsb-uuid.netlify.app
+在线访问：feeyo-uuid.dextercai.com
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c23a9e91-be1d-4fb6-bfad-5d92ce9f03c5/deploy-status)](https://app.netlify.com/sites/dextercai-feeyo-adsb-uuid/deploys)
 
